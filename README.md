@@ -1,5 +1,6 @@
 # hw05 Houdini Terrain
 
+Experimented with Height field noise, layering, mask by feature, slump & erossion to get the terrain. Used basic geometry & l-system node to scatter trees and rocks in the scene. Experimented with lighting, material & textures for various outputs.
 
 ## With Height Field Visualizer
 
