@@ -1,4 +1,20 @@
 # hw05 Houdini Terrain
+
+
+## With Height Field Visualizer
+
+![Screenshot2](https://user-images.githubusercontent.com/90112787/199167866-0880f050-c046-45c0-811f-745962ef059f.jpg)
+
+![Screenshot3](https://user-images.githubusercontent.com/90112787/199167881-514df497-4b85-4c3f-a60f-c1226de943a6.jpg)
+
+
+## With Terrain Material
+
+![Screenshot1](https://user-images.githubusercontent.com/90112787/199167851-cb4dae18-d4b1-454e-ab20-5e8e85f1206a.jpg)
+
+![Screenshot4](https://user-images.githubusercontent.com/90112787/199167872-95095f8d-5207-437f-9734-dca885b246b2.jpg)
+
+
 Let's explore Houdini and get a basic understanding of the workflow and interface.
 
 For this assignment, our resident Houdini expert Dan will provide a a simple Houdini network that spawns objects on a bit of terrain. It's not a terribly complex or interesting scene! Please experiment to make it more interesting :)
